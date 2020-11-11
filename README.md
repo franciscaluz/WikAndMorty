@@ -1,1 +1,1 @@
-# WikAndMorty
+# Wi&Morty
