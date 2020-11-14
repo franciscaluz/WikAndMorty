@@ -1,4 +1,4 @@
-# Wik&Morty
+# Wik & Morty
 
 School homework that simulated an open source type app inspired by the Rick & Morty series in which we can practice CRUD operations by fetching API datas.
 
